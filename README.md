@@ -25,9 +25,9 @@ Interfaz de usuario desarrollada en **React** para interactuar con la API REST d
 
 ## Instala las dependencias:
 
--bash
--Copy code
--npm install
+- **bash**
+- **Copy code**
+- **npm install**
 
 ## Ejecuta el servidor de desarrollo:
 
@@ -56,4 +56,4 @@ Este proyecto se conecta con el backend en Spring Boot, disponible en:
 
 ### Autor
 - **Fabian Alexander Florez Salamanca**
-Desarrollado como parte de una prueba técnica con React y Spring Boot.
+**Desarrollado como parte de una prueba técnica con React y Spring Boot.**
