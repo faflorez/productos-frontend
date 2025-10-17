@@ -56,4 +56,4 @@ Este proyecto se conecta con el backend en Spring Boot, disponible en:
 
 ### Autor
 - **Fabian Alexander Florez Salamanca**
-**Desarrollado como parte de una prueba técnica con React y Spring Boot.**
+- **Desarrollado como parte de una prueba técnica con React y Spring Boot.**
