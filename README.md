@@ -14,8 +14,8 @@ Interfaz de usuario desarrollada en **React** para interactuar con la API REST d
 
 ## Clona el repositorio:
 
--bash
--git clone https://github.com/faflorez/productos-frontend.git
+- **bash**
+- **git clone https://github.com/faflorez/productos-frontend.git**
 
 ## Entra a la carpeta:
 
