@@ -19,9 +19,9 @@ Interfaz de usuario desarrollada en **React** para interactuar con la API REST d
 
 ## Entra a la carpeta:
 
--bash
--Copy code
--cd productos-frontend
+- **bash**
+- **Copy code**
+- **cd productos-frontend**
 
 ## Instala las dependencias:
 
@@ -31,29 +31,29 @@ Interfaz de usuario desarrollada en **React** para interactuar con la API REST d
 
 ## Ejecuta el servidor de desarrollo:
 
--bash
--Copy code
--npm start
--El proyecto se abrirá en:
+- **bash**
+- **Copy code**
+- **npm start**
+- **El proyecto se abrirá en:**
 http://localhost:3000
 
 ## Conexión con el backend
 Este proyecto se conecta con el backend en Spring Boot, disponible en:
 
--bash
--Copy code
--http://localhost:8080/productos/
+- **bash**
+- **Copy code**
+- **http://localhost:8080/productos/**
 
 ### Funcionalidades
 
--Listar productos disponibles.
+- **Listar productos disponibles.**
 
--Crear nuevos productos.
+- **Crear nuevos productos.**
 
--Editar información existente.
+- **Editar información existente.**
 
--Eliminar productos.
+- **Eliminar productos.**
 
 ### Autor
--Fabian Alexander Florez Salamanca
--Desarrollado como parte de una prueba técnica con React y Spring Boot.
+- **Fabian Alexander Florez Salamanca**
+Desarrollado como parte de una prueba técnica con React y Spring Boot.
